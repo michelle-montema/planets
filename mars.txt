@@ -1,3 +1,7 @@
 Cold and dry, but everything is my favorite color.
 
 Add another line here.
+
+This is a cool thing, but it is difficult to remember the commands. 
+
+
